@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>St. Peter's Prep - Bleasdale</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43330</md:content-id>
+  <md:title>St. Peter's Prep - Bleasdale</md:title>
+  <md:abstract/>
+  <md:uuid>72aa2ff1-65ca-447a-b32e-80db342bf17d</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1167497208609" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">
+              <emphasis effect="bold">Thread: Personal</emphasis>
+            </entry>
+            <entry namest="c3" nameend="c4">
+              <emphasis effect="bold">Subgroup: Individual/Group</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Foci: 6 plus years</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis effect="bold">Program Title: </emphasis>
+              <emphasis effect="bold">Faculty formation for the already formed</emphasis>
+            </entry>
+            <entry namest="c4" nameend="c5">
+              <emphasis effect="bold">Contact Person/Office: </emphasis>
+              <emphasis effect="bold">School : Jane Bleasdale</emphasis>
+              <emphasis effect="bold">bleasdalej@spprep.org</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Program Description:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">
+              <emphasis effect="bold">The formation for the already formed group offers continued personal support and interaction for faculty beyond their first five years. We meet once or twice a year for lunch to rekindle old connections, and catch up with our peer group. Meetings are for years 5 – 10, 10 – 15 etc</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Rationale:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Teachers are busy people and rarely make time for themselves and their professional relationships during the school day. The connection with peers that began in a school at the same time as us is unique. This is an opportunity to celebrate commitment to mission, friendship, longevity and reminisce</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Leadership:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Director of faculty formation schedules, conversation and meetings led informally by participants.</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Implementation:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Implemented by the director of faculty formation after discussions with veteran teachers about how best to support their mission</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Processes and</emphasis>
+              <emphasis effect="bold">Resources:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Once a semester scheduled, lunch provided</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Finances:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">$1000 per year</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Rewards:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Increased conversation between departments, teachers feel appreciated, desire for more time to meet and collaborate.</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Time:</emphasis>
+              <emphasis effect="bold">When</emphasis>
+              <emphasis effect="bold">Length </emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Once a semester for one hour</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Location </emphasis>
+              <emphasis effect="bold">Space:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Formation office</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Accountability/Assessment:</emphasis>
+            </entry>
+            <entry namest="c2" nameend="c5">Verbal feedback, online surveys evaluating formation opportunities.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>
